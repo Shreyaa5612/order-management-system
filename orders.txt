@@ -1,0 +1,62 @@
+
+order #1
+new_order
+pizza x 2= rs500
+grandtotal=525.0
+order placed on 2025-07-24 03:01:06.214558
+--------------------
+
+order #2
+new_order
+coke x 2= rs80
+grandtotal=84.0
+order placed on 2025-07-24 03:01:23.642374
+--------------------
+
+order #3
+new_order
+burger x 1= rs90
+pasta x 1= rs180
+coke x 2= rs80
+grandtotal=367.5
+order placed on 2025-07-24 03:43:43.255620
+--------------------
+
+order #4
+new_order
+burger x 3= rs270
+grandtotal=283.5
+order placed on 2025-07-24 03:52:19.633856
+--------------------
+
+order #5
+new_order
+burger x 2= rs180
+coke x 1= rs40
+grandtotal=231.0
+order placed on 2025-07-24 04:57:15.722618
+--------------------
+
+order #6
+new_order
+pasta x 1= rs180
+coke x 2= rs80
+grandtotal=273.0
+order placed on 2025-07-24 05:00:39.726832
+--------------------
+
+order #7
+new_order
+cold coffee x 1= rs90
+medium pizza x 1= rs250
+grandtotal=357.0
+order placed on 2025-07-24 20:41:58.792366
+--------------------
+
+order #8
+new_order
+fries x 1= rs70
+cold coffee x 1= rs90
+grandtotal=168.0
+order placed on 2025-07-24 20:46:25.593603
+--------------------
